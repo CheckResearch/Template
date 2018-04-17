@@ -2,7 +2,7 @@
 
 ## HOWTO
 
-Please put a complete documentation of the experiment in this file.
+Please put a complete documentation of the experiment in this file
 
 Use [Markdown](https://guides.github.com/features/mastering-markdown/)!
 
@@ -10,16 +10,16 @@ Use [Markdown](https://guides.github.com/features/mastering-markdown/)!
 
 ### Experiment Content
 
-Which part of the original publication is reproduced?
+Which part of the original publication is reproduced
 
 ### Hardware/Software
 
-Describe your used Hardware + Software here.
+Describe your Hardware & Software setup
 
 ## Experiment Steps
 
-Describe the steps...
+Describe each step of the experiment
 
 ## Results
 
-Describe your results...
+Describe your results
