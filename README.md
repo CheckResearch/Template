@@ -16,6 +16,14 @@ Which part of the original publication is reproduced
 
 Describe your Hardware & Software setup
 
+## Experiment Assumptions
+
+Make it explicit here if you made any assumptions in your experiment
+
+## Preconditions
+
+Something others need to prepare in order to run your code (e.g. libraries, python modules, ...)
+
 ## Experiment Steps
 
 Describe each step of the experiment
